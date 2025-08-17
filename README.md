@@ -27,7 +27,7 @@ Jika kamu memiliki kendala atau pendapat yang ingin di sampaikan kamu bisa
 
 jika kamu merasa program ini berguna kami bisa membantu kami
 
-- https://github.com/Betavoke/.github/blob/main/assets/gibran_brian_darel.png
+![](https://github.com/Betavoke/.github/blob/main/assets/gibran_brian_darel.png)
 
 jika kamu ingin sponsor alias menaruh nama kamu di setiap applikasi yang kami buat bisa check
 
