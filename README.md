@@ -16,6 +16,29 @@ Mini Code Editor sebuah code editor yang memungkinkan kamu edit code, mengatur s
 
 - [Youtube](https://www.youtube.com/@BetaVoke)
 
+
+## Fitur
+
+- [x] Code Editor / Terminal
+- [x] SSH / SFTP
+- [x] Live Preview Markdown / Web Static
+- [x] Git (Clone / Push)
+- [ ] Container Linux Cross Platform
+    > kami sudah mencoba dan berhasil namun saat ini masih perlu root untuk android, saya tidak bisa menambahkan ini kedalam app jika root,
+      karena saya tidak ingin mengroot hp saya, saya sedang berusaha menjalankan linux tanpa root di cross platform termasuk windows tanpa emulator
+      saya berencana membuat library emulasi jadi saat ini belum tersedia.
+
+    
+## Full Release
+
+pada dasarnya ini program beta, jadi untuk full release bisa 
+
+check di
+
+- Link
+
+jika belum bisa di klik maka itu tandaya belum tersedia
+
 ## Masalah / Kritik Saran
 
 Jika kamu memiliki kendala atau pendapat yang ingin di sampaikan kamu bisa 
