@@ -16,6 +16,12 @@ Mini Code Editor sebuah code editor yang memungkinkan kamu edit code, mengatur s
 
 - [Youtube](https://www.youtube.com/@BetaVoke)
 
+## Install
+
+pada dasarnya kami menjadikan semua file menjadi archive agar file mengecil, silahkan check disini
+
+- [Download]()
+
 
 ## Fitur
 
