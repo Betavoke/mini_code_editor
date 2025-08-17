@@ -88,3 +88,5 @@ mungkin ini pertanyaan yang akan di ajukan
 > A: kami tidak bisa menjamin cepat tapi kemungkinan tergantung pada situasi kondisi, jika peminat banyak maka kami akan berusaha, ya pada dasarnya kami bisa membuat program full stack 1-7 hari. sudah ready production
  tapi jika situasi tidak memungkinkan dan kemungkinan ada hal buruk / seseorang ingin tidak ingin melanjutkan maka kami bisa delay 1 bulan lebih
 
+> Q: Apakah nanti app akan ada dalam versi berbayar? mengingat ini tahun 2025 ya harus mencari untung, lalu jika berbayar apakah privasi terjamin? mengingat ini code editor.
+> A: kemungkinan iya tapi itu untuk full release, jika versi beta maka gratis, ya kami akan menjamin tidak ada log / backdoor untuk applikasi code editor
