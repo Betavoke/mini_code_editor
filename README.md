@@ -2,6 +2,19 @@
 
 Mini Code Editor sebuah code editor yang memungkinkan kamu edit code, mengatur server menggunakan ssh, preview markdown / preview html web static.
 
+## Kenapa applikasi ini tetap di bangun meskipun banyak code editor?
+
+ya pada intinya kami hanya senang membuat program, ya walaupun kami tidak bisa menyamakan skills dengan code editor yang udah matang,
+tapi kami berusaha menyempurnakan apa keluh kesah yang kami alamin.
+
+saat ini ada beberapa alasan
+
+- kami ingin coding sambil rebahan
+  pada dasarnya kode editor umum di buat untuk pc / desktop, kalopun ada via web itu lumayan ribet untuk koneksi, kami suka yang portable
+
+
+
+
 ## Demo
 
 | 1                                                                                         | 2                                                                                         | 3                                                                                         |
@@ -28,7 +41,14 @@ pada dasarnya kami menjadikan semua file menjadi archive agar file mengecil, sil
 - [x] SSH / SFTP
 - [x] Live Preview Markdown / Web Static
 - [x] Git (Clone / Push)
-- [ ] Container Linux Cross Platform
+- [ ] Live Preview Mock Device
+    > ini berguna untuk orang yang ingin develop applikasi, karena bisa simulasi frame device
+    iphone, samsung, pixel, desktop, pc, browser dan lainnya
+- [ ] Extension (WIP Work In Private)
+    > untuk bisa menambahkan extension kami perlu membuat bahasa code kedalama shared library
+    karena untuk android jika masih dalam exe tidak bisa di jalankan karena perlu root
+
+- [ ] Container Linux Cross Platform (WIP Work In Private)
     > kami sudah mencoba dan berhasil namun saat ini masih perlu root untuk android, saya tidak bisa menambahkan ini kedalam app jika root,
       karena saya tidak ingin mengroot hp saya, saya sedang berusaha menjalankan linux tanpa root di cross platform termasuk windows tanpa emulator
       saya berencana membuat library emulasi jadi saat ini belum tersedia.
