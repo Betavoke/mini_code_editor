@@ -23,6 +23,12 @@ Jika kamu memiliki kendala atau pendapat yang ingin di sampaikan kamu bisa
 - https://github.com/Betavoke/mini_code_editor/issues
 - https://github.com/Betavoke/mini_code_editor/discussions
 
+## Komunitas Developer Resmi
+
+- [Facebook](https://web.facebook.com/groups/developerglobalpublic)
+- [Telegram](https://t.me/DEVELOPER_GLOBAL_PUBLIC)
+- [Reddit]()
+
 ## Bantuan
 
 jika kamu merasa program ini berguna kami bisa membantu kami
