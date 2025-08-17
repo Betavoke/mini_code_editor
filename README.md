@@ -14,7 +14,7 @@ Mini Code Editor sebuah code editor yang memungkinkan kamu edit code, mengatur s
 | ![](https://github.com/Betavoke/mini_code_editor/blob/main/assets/mini_code_editor/5.png) |
 
 
-- [Youtube]()
+- [Youtube](https://www.youtube.com/@BetaVoke)
 
 ## Masalah / Kritik Saran
 
