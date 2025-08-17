@@ -12,7 +12,8 @@ saat ini ada beberapa alasan
 - kami ingin coding sambil rebahan
   pada dasarnya kode editor umum di buat untuk pc / desktop, kalopun ada via web itu lumayan ribet untuk koneksi, kami suka yang portable
 
-
+- kami ingin ada fitur privasi
+  pada dasarnya kode editor belum ada yang bisa menghide beberapa kalimat, maka kami menghadirkan fitur itu 
 
 
 ## Demo
