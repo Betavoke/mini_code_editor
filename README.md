@@ -25,6 +25,8 @@ Jika kamu memiliki kendala atau pendapat yang ingin di sampaikan kamu bisa
 
 ## Komunitas Developer Resmi
 
+jika kamu ingin berkeluh kesah, bantuan lainnya kami hadir di sini juga
+
 - [Facebook](https://web.facebook.com/groups/developerglobalpublic)
 - [Discord](https://discord.gg/xgGVe5Mx)
 - [Telegram](https://t.me/DEVELOPER_GLOBAL_PUBLIC)
