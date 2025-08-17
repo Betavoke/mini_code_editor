@@ -22,7 +22,6 @@ pada dasarnya kami menjadikan semua file menjadi archive agar file mengecil, sil
 
 - [Download]()
 
-
 ## Fitur
 
 - [x] Code Editor / Terminal
@@ -34,6 +33,11 @@ pada dasarnya kami menjadikan semua file menjadi archive agar file mengecil, sil
       karena saya tidak ingin mengroot hp saya, saya sedang berusaha menjalankan linux tanpa root di cross platform termasuk windows tanpa emulator
       saya berencana membuat library emulasi jadi saat ini belum tersedia.
 
+> di karenakan container linux belum bisa di akses maka menjalankan program pada hp android belum bisa maksimal,
+
+> dalam arti kamu bisa menjalankan namun perlu root dan kamu perlu manual menjalankan chroot / proot di terminal
+
+>  lalu mengarahkan ke dalam project folder lalu jalankan seperti biasa
     
 ## Full Release
 
