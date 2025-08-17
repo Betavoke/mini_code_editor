@@ -12,3 +12,28 @@ Mini Code Editor sebuah code editor yang memungkinkan kamu edit code, mengatur s
 | 1                                                                                         |
 |-------------------------------------------------------------------------------------------|
 | ![](https://github.com/Betavoke/mini_code_editor/blob/main/assets/mini_code_editor/5.png) |
+
+
+- [Youtube]()
+
+## Masalah / Kritik Saran
+
+Jika kamu memiliki kendala atau pendapat yang ingin di sampaikan kamu bisa 
+
+- https://github.com/Betavoke/mini_code_editor/issues
+- https://github.com/Betavoke/mini_code_editor/discussions
+
+## Bantuan
+
+jika kamu merasa program ini berguna kami bisa membantu kami
+
+- https://github.com/Betavoke/.github/blob/main/assets/gibran_brian_darel.png
+
+jika kamu ingin sponsor alias menaruh nama kamu di setiap applikasi yang kami buat bisa check
+
+informasi kontak bisa check disini: https://github.com/Betavoke
+
+jika belum ada maka tolong tunggu beberapa hari
+
+jika kamu tidak ingin ya tidak wajib kontak kami
+
