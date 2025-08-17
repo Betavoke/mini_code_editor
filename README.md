@@ -68,3 +68,23 @@ jika belum ada maka tolong tunggu beberapa hari
 
 jika kamu tidak ingin ya tidak wajib kontak kami
 
+
+## Pertanyaan 
+
+mungkin ini pertanyaan yang akan di ajukan
+
+#### Umum
+
+> Q: Apakah aman?
+> A: 100% kami jamin aman jika mendownload di sumber resmi
+
+> Q: saya mencoba install di device namun saat menjalankan terdeksi program virus atau berbahaya
+> A: kami jamin kami tidak menaruh hal buruk, backdoor, spy, log dan lain lain, kemungkinan itu program virus yang emang di bayar / emang memiliki masalah dengan kami.
+  ya pada intinya jika kamu ragu kamu tidak perlu menginstallnya.
+
+#### App
+
+> Q: Berapa lama full release?
+> A: kami tidak bisa menjamin cepat tapi kemungkinan tergantung pada situasi kondisi, jika peminat banyak maka kami akan berusaha, ya pada dasarnya kami bisa membuat program full stack 1-7 hari. sudah ready production
+ tapi jika situasi tidak memungkinkan dan kemungkinan ada hal buruk / seseorang ingin tidak ingin melanjutkan maka kami bisa delay 1 bulan lebih
+
